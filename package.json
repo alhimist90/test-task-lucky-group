@@ -3,7 +3,7 @@
   "version": "2.1.0",
   "description": "gulp-builder for weblayout",
   "main": "gulpfile.js",
-  "homepage": "https://alhimist90.github.io/testTask-helloBrand/",
+  "homepage": "https://alhimist90.github.io/test-task-lucky-group/",
   "scripts": {
     "html": "node-w3c-validator -f lint -evH -i app/**/*.html",
     "dev": "gulp",
